@@ -1,0 +1,152 @@
+[
+  {
+    "spaceName": "A01",
+    "parkingType": 1,
+    "vacant": 1
+  },
+  {
+    "spaceName": "A02",
+    "parkingType": 1,
+    "vacant": 0
+  },
+  {
+    "spaceName": "A03",
+    "parkingType": 1,
+    "vacant": 0
+  },
+  {
+    "spaceName": "A04",
+    "parkingType": 1,
+    "vacant": 1
+  },
+  {
+    "spaceName": "A05",
+    "parkingType": 1,
+    "vacant": 1
+  },
+  {
+    "spaceName": "A06",
+    "parkingType": 1,
+    "vacant": 1
+  },
+  {
+    "spaceName": "A07",
+    "parkingType": 1,
+    "vacant": 0
+  },
+  {
+    "spaceName": "A08",
+    "parkingType": 1,
+    "vacant": 1
+  },
+  {
+    "spaceName": "A09",
+    "parkingType": 1,
+    "vacant": 1
+  },
+  {
+    "spaceName": "A10",
+    "parkingType": 1,
+    "vacant": 0
+  },
+  {
+    "spaceName": "B01",
+    "parkingType": 2,
+    "vacant": 1
+  },
+  {
+    "spaceName": "B02",
+    "parkingType": 2,
+    "vacant": 1
+  },
+  {
+    "spaceName": "B03",
+    "parkingType": 2,
+    "vacant": 0
+  },
+  {
+    "spaceName": "B04",
+    "parkingType": 2,
+    "vacant": 0
+  },
+  {
+    "spaceName": "B05",
+    "parkingType": 2,
+    "vacant": 1
+  },
+  {
+    "spaceName": "B06",
+    "parkingType": 2,
+    "vacant": 1
+  },
+  {
+    "spaceName": "B07",
+    "parkingType": 2,
+    "vacant": 1
+  },
+  {
+    "spaceName": "B08",
+    "parkingType": 2,
+    "vacant": 1
+  },
+  {
+    "spaceName": "B09",
+    "parkingType": 2,
+    "vacant": 0
+  },
+  {
+    "spaceName": "B10",
+    "parkingType": 2,
+    "vacant": 0
+  },
+  {
+    "spaceName": "C01",
+    "parkingType": 3,
+    "vacant": 1
+  },
+  {
+    "spaceName": "C02",
+    "parkingType": 3,
+    "vacant": 1
+  },
+  {
+    "spaceName": "C03",
+    "parkingType": 3,
+    "vacant": 1
+  },
+  {
+    "spaceName": "C04",
+    "parkingType": 3,
+    "vacant": 0
+  },
+  {
+    "spaceName": "C05",
+    "parkingType": 3,
+    "vacant": 1
+  },
+  {
+    "spaceName": "C06",
+    "parkingType": 3,
+    "vacant": 1
+  },
+  {
+    "spaceName": "C07",
+    "parkingType": 3,
+    "vacant": 1
+  },
+  {
+    "spaceName": "C08",
+    "parkingType": 3,
+    "vacant": 0
+  },
+  {
+    "spaceName": "C09",
+    "parkingType": 3,
+    "vacant": 0
+  },
+  {
+    "spaceName": "C10",
+    "parkingType": 3,
+    "vacant": 0
+  }
+]
